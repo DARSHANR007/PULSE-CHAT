@@ -1,0 +1,1 @@
+const APIkey="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";
